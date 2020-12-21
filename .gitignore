@@ -1,1 +1,8 @@
 .ipynb_checkpoints
+.idea
+.vscode
+project-dog-classification/lfw
+*.zip
+.udacity-pa
+__pycache__
+
