@@ -2,7 +2,7 @@
 .idea
 .vscode
 project-dog-classification/lfw
+project-dog-classification/dogImages
 *.zip
 .udacity-pa
 __pycache__
-
